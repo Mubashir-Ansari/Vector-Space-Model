@@ -1,0 +1,25 @@
+*{
+    align-content:center;
+}
+body{
+    background-color: gray;
+}
+h1{
+    align-content:center;
+    text-align: center;
+}
+#text{
+    text-align: center;
+    color: black;
+    padding: 5px;
+}
+#table{
+    background-color: rgb(170, 153, 153);
+}
+.exec{ 
+    width: 10%;
+    background-color: rgb(71, 160, 71);
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 45%;
+}
